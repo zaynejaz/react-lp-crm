@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: 'https://ze-crm-vercel.app',
+  siteUrl: 'https://ze-crm.vercel.app',
   generateRobotsTxt: true,
   // optional
   // robotsTxtOptions: {
