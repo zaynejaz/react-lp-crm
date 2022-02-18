@@ -9,7 +9,7 @@ import author3 from 'assets/images/clients/author3.png';
 import author4 from 'assets/images/clients/author4.png';
 import logoMeze from 'assets/images/clients/logoMeze.png';
 import logoGoogle from 'assets/images/clients/logoGoogle.png';
-import logoHubspot from 'assets/images/clients/logoHubspot.png';
+import logoHubspot from 'assets/images/clients/logoHubSpot.png';
 import logoFocal from 'assets/images/clients/logoFocal.png';
 import { rgba } from 'polished';
 
