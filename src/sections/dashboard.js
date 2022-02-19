@@ -12,6 +12,9 @@ import Briefcase from 'components/icons/briefcase';
 import TabButton from 'components/tabs/tab-button';
 
 import taskManager from 'assets/images/task-manager.png';
+import taskManager2 from 'assets/images/task-manager2.png';
+import taskManager3 from 'assets/images/task-manager3.png';
+import taskManager4 from 'assets/images/task-manager4.png';
 
 const data = [
   {
@@ -24,19 +27,19 @@ const data = [
     id: 2,
     title: 'Nurture',
     icon: <Cog />,
-    image: taskManager,
+    image: taskManager2,
   },
   {
     id: 3,
     title: 'Convert',
     icon: <Currency />,
-    image: taskManager,
+    image: taskManager3,
   },
   {
     id: 4,
     title: 'Grow',
     icon: <Briefcase />,
-    image: taskManager,
+    image: taskManager4,
   },
 ];
 
